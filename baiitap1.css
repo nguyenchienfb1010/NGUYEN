@@ -1,0 +1,161 @@
+#khung{
+	width: 1150px;
+	height: 300px;
+	background: black;
+	margin: 0 auto;
+	padding: 0px;
+}
+#khung .vung1{
+	float: left;
+	width: 350px;
+	height: 100%;
+	background: black;
+	margin-right: 25px;
+	margin-left: 25px;
+
+}
+.box-dot-line{
+	background: white;
+	width: 100%;
+	height: 3px;
+	margin-top: 0px;
+}
+.vung1 p{
+	margin-left: 5px;
+	margin-right: 5px;
+	font-family: Verdana , Geneva , sans-serif ;
+	font-size: 13px;
+	text-align: justify;
+	color: white;
+}
+.box-link{
+	display: block;
+	width: 110px;
+	height: 30px;
+	background: #ccc;
+	margin-left: 29%;
+	margin-top: 30px;
+
+}
+h3{
+	width: 100%;
+	height: 30px;
+	margin-bottom: 2px;
+	text-align: center;
+	line-height: 30px;
+	color: white;
+
+}
+a.box-link{
+	color: #333;
+	text-decoration: none;
+	text-align: center;
+	line-height: 30px;
+	font-family:Verdana , Geneva , sans-serif ;
+	font-size: 13px;
+	color: white;
+	font-weight: bold;
+	
+}
+
+#khung .vung2{
+	float: left;
+	width: 350px;
+	height: 100%;
+	background: black;
+	margin-right: 25px;
+}
+.box-dot-line{
+	background: white;
+	width: 100%;
+	height: 3px;
+	margin-top: 0px;
+}
+.vung1 p{
+	margin-left: 5px;
+	margin-right: 5px;
+	font-family: Verdana , Geneva , sans-serif ;
+	font-size: 13px;
+	text-align: justify;
+	color: white;
+}
+.box-link{
+	display: block;
+	width: 110px;
+	height: 30px;
+	background: #ccc;
+	margin-left: 29%;
+	margin-top: 30px;
+
+}
+h3{
+	width: 100%;
+	height: 30px;
+	margin-bottom: 2px;
+	text-align: center;
+	line-height: 30px;
+	color: white;
+
+}
+a.box-link{
+	color: #333;
+	text-decoration: none;
+	text-align: center;
+	line-height: 30px;
+	font-family:Verdana , Geneva , sans-serif ;
+	font-size: 13px;
+	color: white;
+	font-weight: bold;
+	
+}
+
+#khung .vung3{
+	float: left;
+	width: 350px;
+	height: 100%;
+	background: black;
+	margin-right: 25px;
+}
+.box-dot-line{
+	background: white;
+	width: 100%;
+	height: 3px;
+	margin-top: 0px;
+}
+.vung1 p{
+	margin-left: 5px;
+	margin-right: 5px;
+	font-family: Verdana , Geneva , sans-serif ;
+	font-size: 13px;
+	text-align: justify;
+	color: white;
+}
+.box-link{
+	display: block;
+	width: 110px;
+	height: 30px;
+	background: #ccc;
+	margin-left: 29%;
+	margin-top: 30px;
+
+}
+h3{
+	width: 100%;
+	height: 30px;
+	margin-bottom: 2px;
+	text-align: center;
+	line-height: 30px;
+	color: yellow;
+
+}
+a.box-link{
+	color: #333;
+	text-decoration: none;
+	text-align: center;
+	line-height: 30px;
+	font-family:Verdana , Geneva , sans-serif ;
+	font-size: 13px;
+	color: white;
+	font-weight: bold;
+	
+}
